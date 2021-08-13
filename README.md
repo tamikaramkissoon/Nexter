@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-Nexter is a fictional realtor service that allow customers to view homes globablly and connect with realtors.
+Nexter is a fictional realtor service that allow customers to view homes globally and connect with realtors.
 
  Link to Nexter website:  https://nexter-tamika-ramkissoon.netlify.app/
 
